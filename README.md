@@ -13,7 +13,7 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 Use the adonis command to install node_modules
 
 ```bash
-npm i
+npm i 
 ```
 
 or manually clone the repo and then run `npm install`.
